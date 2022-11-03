@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋,
+
+🔭 I'm currently working on smart contract development (Solidity) and building decentralized apps in React using ether.js
+
+🌱 I'm currently learning smart contract development in Solidity for Ethereum blockchain
+
+👯 I'm looking to collaborate on blockchain oriented projects.
 
 <!--
 **tamoroso/tamoroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
