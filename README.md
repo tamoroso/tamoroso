@@ -51,4 +51,4 @@ ML Engineer role (Computer Vision or applied LLM/GenAI) where ML is a real techn
 
 ---
 
-📫 Reach out via [LinkedIn](#) or [email](#)
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/amorosothomas/) or [email](mailto:amorosothomas.dev@gmail.com)
