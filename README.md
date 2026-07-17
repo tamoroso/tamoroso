@@ -25,11 +25,11 @@ No LangChain — evaluated and dropped as unnecessary overhead for a straightfor
 ## Background
 
 - **Agronomy engineering** foundation, doctoral-level research at INRAE/ASTREDHOR (plant physiology, not defended)
+  - Computer Vision work: OpenCV, Structure from Motion (3D reconstruction), PyTorch/TensorFlow
 - **2 peer-reviewed publications** in plant physiology
 - **3 years at Viabeez** (MedTech startup) as ML Engineer + Full-Stack Developer, full remote:
   - Built and maintained Node.js APIs handling several thousand daily requests in production
   - Delivered a RAG/LLM proof of concept (LangChain, MongoDB Atlas)
-  - Computer Vision work: OpenCV, Structure from Motion (3D reconstruction), PyTorch/TensorFlow
 
 ---
 
@@ -37,9 +37,9 @@ No LangChain — evaluated and dropped as unnecessary overhead for a straightfor
 
 | Area | Tools |
 |---|---|
-| Languages | Python, JavaScript/Node.js, Bash |
-| ML / CV | PyTorch, TensorFlow, OpenCV, fastembed |
-| LLM / RAG | Groq API, Qdrant, LangChain (selectively), Langfuse |
+| Languages | Python, Typescript/Node.js, Bash |
+| ML / CV | PyTorch, TensorFlow, OpenCV, fastembed, Hugging Face |
+| LLM / RAG | Groq API, Qdrant, LangChain, Langfuse |
 | Backend | FastAPI, Node.js |
 | Infra | Docker, Git, AWS, GCP, Linux, Render |
 
