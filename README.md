@@ -9,7 +9,7 @@ I build things end-to-end and ship them to production. My background is atypical
 
 ## Currently building
 
-**[forest-rag](#)** — a RAG pipeline over Shift Project reports on agriculture, built specifically to close the gap between "I've done ML" and "I've deployed ML."
+**[forest-rag](#)** — a RAG pipeline over Shift Project reports on agriculture.
 
 - **Retrieval**: Qdrant (embedded mode) + `fastembed` for dense embeddings
 - **Reranking**: `jinaai/jina-reranker-v2-base-multilingual` cross-encoder
